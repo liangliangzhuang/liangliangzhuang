@@ -1,61 +1,82 @@
-<h1 align="center">Hi there 👋, I'm Liangliang Zhuang</h1>
+# 👋 Hi, I'm Liangliang Zhuang
 
-<p align="center">
-  <a href="https://zhuangliangliang.com/">Website</a> ·
-  <a href="https://github.com/liangliangzhuang">GitHub</a> ·
-  <a href="mailto:liangliangzhuang1997@gmail.com">Email</a>
-</p>
+博士后，主要关注可靠性工程、退化过程建模、随机过程、R 语言科研代码与可视化。
 
-<p align="center">
-  Reliability engineering · Degradation process modeling · R programming · Data visualization
-</p>
+<div align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=liangliangzhuang&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/liangliangzhuang?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/liangliangzhuang?affiliations=OWNER%2CCOLLABORATOR&style=flat-square)
+
+</div>
 
 ---
 
-## 🥰 GitHub Status
+## 📊 GitHub Status
 
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=liangliangzhuang&theme=github-compact&hide_border=true&area=true&custom_title=Liangliang%20Zhuang's%20Contributions" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=liangliangzhuang&show_icons=true&count_private=true&hide_border=true&theme=default&rank_icon=github&custom_title=Liangliang%20Zhuang's%20GitHub%20Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liangliangzhuang&layout=compact&hide_border=true&theme=default&langs_count=8&custom_title=Most%20Used%20Languages" />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=liangliangzhuang&show_icons=true&include_all_commits=true&count_private=false&hide_border=true" />
 
-<p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=liangliangzhuang&hide_border=true&theme=default" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=liangliangzhuang&theme=github&utcOffset=8" />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liangliangzhuang&layout=compact&hide_border=true&langs_count=8" />
 
-<p align="center">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=liangliangzhuang&theme=flat&no-frame=true&row=1&column=7" />
-</p>
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=liangliangzhuang&hide_border=true" />
+
+</div>
+
+---
+
+## 🔬 Research Interests
+
+- Reliability engineering
+- Stochastic degradation processes
+- Degradation-based maintenance modeling
+- Inverse Gaussian process and Wiener process
+- Statistical modeling and simulation
+- R package development and reproducible research
 
 ---
 
 ## 📌 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/liangliangzhuang/R_example">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=liangliangzhuang&repo=R_example&hide_border=true" />
-  </a>
-  <a href="https://github.com/liangliangzhuang/R-tutorial">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=liangliangzhuang&repo=R-tutorial&hide_border=true" />
-  </a>
-</p>
+| Project | Description | Language |
+|---|---|---|
+| [R_example](https://github.com/liangliangzhuang/R_example) | 公众号「庄闪闪的成长手册」对应的 R 资料、代码和数据 | HTML / R |
+| [R-tutorial](https://github.com/liangliangzhuang/R-tutorial) | 庄闪闪的可视化笔记 | HTML |
+| [Degradation-process-in-reliability](https://github.com/liangliangzhuang/Degradation-process-in-reliability) | 退化过程在可靠性中的应用代码 | HTML / R |
+| [sdp](https://github.com/liangliangzhuang/sdp) | Stochastic degradation process | R |
+| [r2IGP](https://github.com/liangliangzhuang/r2IGP) | Two-Scale Reparameterized Inverse Gaussian Processes | R |
+| [multi-student-t-code](https://github.com/liangliangzhuang/multi-student-t-code) | Codes for IISE Transactions | R |
+
+---
+
+## 🧰 Tools I Use
 
 <p align="center">
-  <a href="https://github.com/liangliangzhuang/Degradation-process-in-reliability">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=liangliangzhuang&repo=Degradation-process-in-reliability&hide_border=true" />
-  </a>
-  <a href="https://github.com/liangliangzhuang/sdp">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=liangliangzhuang&repo=sdp&hide_border=true" />
-  </a>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudioide&logoColor=white" />
+  <img src="https://img.shields.io/badge/Quarto-39729E?style=for-the-badge&logo=quarto&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=liangliangzhuang&label=Profile%20views&style=flat" />
-</p>
+## 🌐 Links
+
+- 个人主页：[https://zhuangliangliang.com/](https://zhuangliangliang.com/)
+- GitHub：[https://github.com/liangliangzhuang](https://github.com/liangliangzhuang)
+- 公众号：庄闪闪的 R 语言手册
+
+---
+
+<div align="center">
+
+### Thanks for visiting!
+
+</div>
