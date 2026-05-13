@@ -1,9 +1,5 @@
 # 👋 Hi there!
 
-I'm **Liangliang Zhuang**.
-
-博士后，公众号：**庄闪闪的 R 语言手册**
-
 - 🔬 Reliability Engineering
 - 📈 Stochastic Degradation Process
 - 💻 R / Quarto / Markdown / LaTeX
