@@ -2,6 +2,8 @@
 
 I'm **Liangliang Zhuang**.
 
+博士后，公众号：**庄闪闪的 R 语言手册**
+
 - 🔬 Reliability Engineering
 - 📈 Stochastic Degradation Process
 - 💻 R / Quarto / Markdown / LaTeX
@@ -14,7 +16,7 @@ I'm **Liangliang Zhuang**.
 <div align="center">
 
 <img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liangliangzhuang&theme=github_dark" 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liangliangzhuang&theme=default" 
   width="98%" 
 />
 
@@ -22,15 +24,21 @@ I'm **Liangliang Zhuang**.
 
 <table>
   <tr>
-    <td width="50%" align="center">
+    <td width="33%" align="center">
       <img 
-        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=liangliangzhuang&theme=github_dark" 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=liangliangzhuang&theme=default" 
         width="100%" 
       />
     </td>
-    <td width="50%" align="center">
+    <td width="33%" align="center">
       <img 
-        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=liangliangzhuang&theme=github_dark&utcOffset=8" 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=liangliangzhuang&theme=default&utcOffset=8" 
+        width="100%" 
+      />
+    </td>
+    <td width="33%" align="center">
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=liangliangzhuang&theme=default" 
         width="100%" 
       />
     </td>
@@ -44,7 +52,7 @@ I'm **Liangliang Zhuang**.
 <div align="center">
 
 <img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=liangliangzhuang&theme=github-compact&hide_border=true&area=true" 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=liangliangzhuang&theme=minimal&hide_border=true&area=true" 
   width="98%" 
 />
 
