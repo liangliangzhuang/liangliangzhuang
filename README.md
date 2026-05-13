@@ -1,6 +1,8 @@
 # 👋 Hi there!
 
-I'm **Liangliang Zhuang**. 博士后，公众号：**庄闪闪的 R 语言手册**
+I'm **Liangliang Zhuang**.
+
+博士后，公众号：**庄闪闪的 R 语言手册**
 
 - 🔬 Reliability Engineering
 - 📈 Stochastic Degradation Process
@@ -14,7 +16,23 @@ I'm **Liangliang Zhuang**. 博士后，公众号：**庄闪闪的 R 语言手册
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=liangliangzhuang&theme=dark&hide_border=true" />
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liangliangzhuang&theme=github_dark" 
+/>
+
+</div>
+
+<div align="center">
+
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=liangliangzhuang&theme=github_dark" 
+  width="48%" 
+/>
+
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=liangliangzhuang&theme=github_dark&utcOffset=8" 
+  width="48%" 
+/>
 
 </div>
 
@@ -24,7 +42,9 @@ I'm **Liangliang Zhuang**. 博士后，公众号：**庄闪闪的 R 语言手册
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=liangliangzhuang&theme=github-compact&hide_border=true&area=true" />
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=liangliangzhuang&theme=github-compact&hide_border=true&area=true" 
+/>
 
 </div>
 
