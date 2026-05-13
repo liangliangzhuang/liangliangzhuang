@@ -1,8 +1,6 @@
 # 👋 Hi there!
 
-I'm **Liangliang Zhuang**.
-
-博士后，公众号：**庄闪闪的 R 语言手册**
+I'm **Liangliang Zhuang**. 博士后，公众号：**庄闪闪的 R 语言手册**
 
 ---
 
